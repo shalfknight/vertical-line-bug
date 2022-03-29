@@ -1,0 +1,14 @@
+{
+  "ios": {
+    "deviceName": "iPhone 13 Pro Max",
+    "locale": "en-US",
+    "packageName": "info.novatec.vertical",
+    "snapshotsPath": "./snapshots/ios",
+    "dev": {},
+    "debug": {
+      "appFile": "./ios/build/Build/Products/Debug-iphonesimulator/VerticalLineBug.app"
+    }
+  },
+  "logLevel": "v",
+  "timeout": 30000
+}
